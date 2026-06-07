@@ -6,18 +6,7 @@
 
 ## 실행 방법
 
-Python 3.10 이상을 설치한 뒤 아래 명령을 실행합니다.
-
-```powershell
-python -m pip install -r requirements.txt
-python main.py
-```
-
-현재 프로젝트 폴더에 준비된 가상환경을 사용할 때는 `run_quiz.bat`을 실행하거나 아래 명령을 사용합니다.
-
-```powershell
-.\.venv\Scripts\python.exe main.py
-```
+- main.py 실행
 
 ## 조작 방법
 
@@ -34,7 +23,6 @@ python main.py
 
 ## 참고 자료
 
-- 첨부 문서: `행소박물관 유물 4지선다 퀴즈 프로젝트.docx`
 - 계명대학교 행소박물관 공식 홈페이지: <https://museum.kmu.ac.kr/>
 - 한국민족문화대백과사전 「계명대학교 행소박물관」
 
